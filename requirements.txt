@@ -1,6 +1,5 @@
 streamlit
 pandas
-sqlite3
 reportlab
 streamlit==1.35.0
 pandas==2.0.3
